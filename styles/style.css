@@ -67,7 +67,8 @@ button {
   background-image: url(file:///Users/Hafsa/Desktop/CYF/bikes-for-refugees/images/header-bike.jpg);
   border-radius: 0;
   background-size: cover;
-  min-height: 400px;
+  min-height: 350px;
+  opacity: 0.6;
 }
 
 /* Headings */
